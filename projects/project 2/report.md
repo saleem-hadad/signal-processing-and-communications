@@ -30,7 +30,7 @@ xlabel('Seconds');
 ylabel('Apmlitude');
 ```
 
-![Screen Shot 2018-06-08 at 12.58.30 PM](/Users/saleem/Desktop/Screen Shot 2018-06-08 at 12.58.30 PM.png)
+![5](/Users/saleem/code/signal-processing-and-communications/projects/project 2/result/5.png)
 
 ```matlab
 % note 1
@@ -42,7 +42,7 @@ xlabel('Seconds');
 ylabel('Apmlitude');
 ```
 
-![Screen Shot 2018-06-08 at 1.00.17 PM](/Users/saleem/Desktop/Screen Shot 2018-06-08 at 1.00.17 PM.png)
+![1](/Users/saleem/code/signal-processing-and-communications/projects/project 2/result/1.png)
 
 ```matlab
 % note 1: spectrum analysis
@@ -57,7 +57,7 @@ xlabel('Frequency');
 ylabel('Apmlitude');
 ```
 
-![Screen Shot 2018-06-08 at 1.00.56 PM](/Users/saleem/Desktop/Screen Shot 2018-06-08 at 1.00.56 PM.png)
+![2](/Users/saleem/code/signal-processing-and-communications/projects/project 2/result/2.png)
 
 ```matlab
 % note 2
@@ -69,7 +69,7 @@ xlabel('Seconds');
 ylabel('Apmlitude');
 ```
 
-![Screen Shot 2018-06-08 at 1.00.59 PM](/Users/saleem/Desktop/Screen Shot 2018-06-08 at 1.00.59 PM.png)
+![3](/Users/saleem/code/signal-processing-and-communications/projects/project 2/result/3.png)
 
 ```matlab
 % note 2: spectrum analysis
@@ -84,7 +84,7 @@ xlabel('Frequency');
 ylabel('Apmlitude');
 ```
 
-![Screen Shot 2018-06-08 at 1.01.01 PM](/Users/saleem/Desktop/Screen Shot 2018-06-08 at 1.01.01 PM.png)
+![4](/Users/saleem/code/signal-processing-and-communications/projects/project 2/result/4.png)
 
 
 
@@ -197,6 +197,28 @@ for i in range(len(result)):
 # show plotted graphs
 plt.show()
 ```
+
+#### Audio Analytics
+
+Saleem
+
+![saleem](/Users/saleem/code/signal-processing-and-communications/projects/project 2/result/saleem.png)
+
+Tariq
+
+![tariq](/Users/saleem/code/signal-processing-and-communications/projects/project 2/result/tariq.png)
+
+Khaled
+
+![khaled](/Users/saleem/code/signal-processing-and-communications/projects/project 2/result/khaled.png)
+
+Muhammed
+
+![muhammed](/Users/saleem/code/signal-processing-and-communications/projects/project 2/result/muhammed.png)
+
+Google
+
+![google](/Users/saleem/code/signal-processing-and-communications/projects/project 2/result/google.png)
 
 #### Results
 
